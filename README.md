@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Snap.js
 A Library for creating beautiful mobile shelfs in Javascript
 
